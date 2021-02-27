@@ -29,14 +29,5 @@ Border
 
 
 
-Topic: Eesrakenduste arendamine 4
-
-Time: Feb 26, 2021 08:15 AM Helsinki
-
-Join Zoom Meeting
-
-https://us02web.zoom.us/j/87458254047?pwd=V0dxWkVZRDMyTWE3QkdsdXk5cWlJUT09
-
-Meeting ID: 874 5825 4047
-
-Passcode: 455133
+Eesrakenduste arendamine 4
+Video: https://youtu.be/irA60RqiiAw
